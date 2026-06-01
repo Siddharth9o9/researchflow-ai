@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🔬 ResearchFlow AI
-### Autonomous Multi-Agent Research Pipeline
+# 🔬 ResearchFlow.AI
+### An Autonomous Multi-Agent AI Research System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776ab?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-Agents-1c7c54?style=flat-square&logo=chainlink&logoColor=white)](https://langchain.com)

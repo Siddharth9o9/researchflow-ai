@@ -406,7 +406,7 @@ def run_with_progress(topic: str):
 st.markdown("""
 <div class="hero">
     <p class="hero-label">// An Autonomous Multi-Agent AI Research System</p>
-    <h1>ResearchFlow AI </h1>
+    <h1>ResearchFlow.AI </h1>
     <p class="hero-sub">Search → Scrape → Write → Critique &nbsp;|&nbsp; Powered by LangChain agents</p>
 </div>
 <div class="divider"></div>
